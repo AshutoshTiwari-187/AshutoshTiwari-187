@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshutoshTiwari-187
 - 👀 I’m interested in ...software devlopment
-- 🌱 I’m currently learning ...computer scince and engineering
-- 💞️ I’m looking to collaborate on ...intership
+- 🌱 I’m currently learning ...computer science and engineering
+- 💞️ I’m looking to collaborate on ...internship
 - 📫 How to reach me ...ashutoshtiwari8726@gmail.com
 
 <!---
